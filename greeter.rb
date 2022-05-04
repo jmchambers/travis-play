@@ -1,5 +1,5 @@
 class Greeter
   def greet
-    'hello world!'
+    'hello world!!!'
   end
 end
