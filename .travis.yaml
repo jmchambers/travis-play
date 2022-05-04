@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+  - 2.7.3p183
+script:
+  - bundle exec ruby greeter_test.rb
+
